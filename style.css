@@ -1,0 +1,75 @@
+.brickh{background-color: yellow;width: 100%;display: flex;}
+#enter{font-size: 25px; font-weight: 800;margin-left: 53px;}
+#brck{margin-left: 50px;font-size:30px;font-weight: 700;}
+#inf{margin-left: 600px;}
+#tel{margin-left: 70px; }
+.lastn{margin-left: 340px;margin-top: -78px;}
+#bld{margin-left: 50px;font-weight: 550;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.gm{margin-left: 340px;margin-top: -78px;}
+#ins{margin-left: 50px;padding:5px 40px;border: 1px solid black;border-radius: 5px;}
+.sidey{border: 1px solid black;width: 20%;border-radius: 10%;margin-left: 800px;margin-top: -170px;}
+#d{font-weight: 550;margin-left: 20px;}
+#faint{color: gray;font-weight: 600;margin-left: 20px;}
+#fr{color: rgb(77, 168, 77);margin-top: -33px; margin-left: 90px;padding-bottom: 40px;}
+#sav{padding:8px 10px;color: rgb(115, 236, 115); border:2px solid green; border-radius: 5%;margin-left: 20px;}
+#cod{padding: 8px 10px;border: 2px solid rgb(143, 137, 137);margin-left: 20px;border-radius: 5%;}
+#ord{padding: 10px 10px;margin-left: 20px;border-radius: 5%;border:hidden;background-color: yellow;margin-bottom: 20px;}
+#method{margin-top: -150px;margin-left: 50px;font-size: 25px;font-weight: 600;}
+#seead{margin-left: 350px; margin-top: -35px; text-decoration: underline;color:#E70062}
+#free{margin-left: 350px; margin-top: -35px;color:rgb(41, 134, 41);}
+#boxlast{}
+#dels{margin-top: -20px;margin-left: 50px;}
+#deliver2{font-size: 25px;font-weight: 600;margin-left: 50px;}
+#close{margin-left: 50px;}
+#t{margin-left: -40px;}
+#foot{margin-left: 550px; margin-top: 20px;}
+/* 
+@media  screen and (min-width:200px),(max-width:915px) {
+    .brickh{width: 100%;display: grid;}
+    #brck{font-size: 20px;}
+    #inf{margin-left: 50px;}
+    #tel{margin-left: 50px;}
+    .ones{margin-left: 2px;}
+    #ins{margin-left: 2px;padding-left: 2px;padding-right: 2px;}
+    #bld{margin-left: 2px;}
+    .twos{margin-left: 2px;}
+    .sidey{margin-left: 2px;margin-top: 60px;width: 250px;}
+    #method{margin-top: 80px;margin-left: 2px;}
+    #dels{margin-left: 2px;font-size: 12px;}
+    #seead{margin-left: 240px;}
+    #free{margin-left: 240px;}
+#deliver2{margin-left: 2px; margin-top: 50px;}
+#close{margin-left: 2px;}
+#foot{margin-left: 100px;margin-top: 50px;}
+#enter{margin-left: 2px;}
+.lastn{margin-left: 2px;margin-top: 20px;}
+.gm{margin-left: 2px;margin-top: 20px;}
+}  */
+
+ /* @media  screen and(min-width:916px),(max-width:1300px) {
+    .brickh{background-color: yellow;width: 100%;display: flex;}
+    #enter{font-size: 25px; font-weight: 800;margin-left: 53px;}
+    #brck{margin-left: 50px;font-size:30px;font-weight: 700;}
+    #inf{margin-left: 600px;}
+    #tel{margin-left: 70px; }
+    .lastn{margin-left: 340px;margin-top: -78px;}
+    #bld{margin-left: 50px;font-weight: 550;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    .gm{margin-left: 340px;margin-top: -78px;}
+    #ins{margin-left: 50px;padding:5px 40px;border: 1px solid black;border-radius: 5px;}
+    .sidey{border: 1px solid black;width: 20%;border-radius: 10%;margin-left: 800px;margin-top: -170px;}
+    #d{font-weight: 550;margin-left: 20px;}
+    #faint{color: gray;font-weight: 600;margin-left: 20px;}
+    #fr{color: rgb(77, 168, 77);margin-top: -33px; margin-left: 90px;padding-bottom: 40px;}
+    #sav{padding:8px 10px;color: rgb(115, 236, 115); border:2px solid green; border-radius: 5%;margin-left: 20px;}
+    #cod{padding: 8px 10px;border: 2px solid rgb(143, 137, 137);margin-left: 20px;border-radius: 5%;}
+    #ord{padding: 10px 10px;margin-left: 20px;border-radius: 5%;border:hidden;background-color: yellow;margin-bottom: 20px;}
+    #method{margin-top: -150px;margin-left: 50px;font-size: 25px;font-weight: 600;}
+    #seead{margin-left: 350px; margin-top: -35px; text-decoration: underline;color:#E70062}
+    #free{margin-left: 350px; margin-top: -35px;color:rgb(41, 134, 41);}
+    #boxlast{border-radius: 55%;}
+    #dels{margin-top: -20px;margin-left: 50px;}
+    #deliver2{font-size: 25px;font-weight: 600;margin-left: 50px;}
+    #close{margin-left: 50px;}
+    #t{margin-left: -40px;}
+    #foot{margin-left: 550px; margin-top: 20px;} */
+
