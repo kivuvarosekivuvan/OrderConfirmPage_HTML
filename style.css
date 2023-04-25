@@ -23,7 +23,7 @@
 #close{margin-left: 50px;}
 #t{margin-left: -40px;}
 #foot{margin-left: 550px; margin-top: 20px;}
-/* 
+
 @media  screen and (min-width:200px),(max-width:915px) {
     .brickh{width: 100%;display: grid;}
     #brck{font-size: 20px;}
@@ -44,7 +44,7 @@
 #enter{margin-left: 2px;}
 .lastn{margin-left: 2px;margin-top: 20px;}
 .gm{margin-left: 2px;margin-top: 20px;}
-}  */
+}  
 
  /* @media  screen and(min-width:916px),(max-width:1300px) {
     .brickh{background-color: yellow;width: 100%;display: flex;}
